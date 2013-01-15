@@ -1,0 +1,18 @@
+{
+  "name": "coffeesave",
+  "version": "0.0.1",
+  "description": "Auto-compile coffeescript on save",
+  "main": "init.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dotcom84/coffeesave.chocmixin.git"
+  },
+  "dependencies": {
+    "coffee-script": ">=0.7.0"
+  }
+  "keywords": [
+    "code"
+  ],
+  "author": "Sebastian Stiffel <unacum@gmail.com>",
+  "license": "MIT"
+}
